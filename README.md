@@ -1,1 +1,3 @@
 # ubiquitous-giggle
+hello there just a newbir to github...
+i code on c++
